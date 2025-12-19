@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'RFX2401C'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Skyworks", "RFX2401C" (!) = "", "QFN50P300X300X60-17N-D", "Quad Flat No-Lead", "477-RFX2401C", "https://www.mouser.co.uk/ProductDetail/Skyworks-Solutions-Inc/RFX2401C?qs=dBWc1juS%252B3ydEXrKsuxQ7A%3D%3D", "RFX2401C", "https://www.arrow.com/en/products/rfx2401c/skyworks-solutions?utm_currency=USD&region=nac", "RF Front End 2.4GHz ZigBee/ISM RFeIC PA+LNA+SPDT", "https://eu.mouser.com/datasheet/2/472/RFX2401C_204359B-1524606.pdf", "0.6 mm"
+END_PART
+
+END.

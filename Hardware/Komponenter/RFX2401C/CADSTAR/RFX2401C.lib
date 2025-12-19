@@ -1,0 +1,18 @@
+.RFX2401C :1 ;RF Front End 2.4GHz ZigBee/ISM RFeIC PA+LNA+SPDT
+QFN50P300X300X60-17N-D
+*STM IC
+*NGS
+*PLB 1="N/C_1" 2="GND_1" 3="GND_2" 4="TXRX" 5="TXEN" 6="RXEN" 7="N/C_2" 8="GND_3" 9="GND_4" 10="ANT" 11="GND_5" 12="N/C_3" 13="DNC" 14="VDD_1" 15="N/C_4" 16="VDD_2" 17="GND_6"
+*MXP 17
+*DFN RFX2401C
+~!Manufacturer_Name (Skyworks)
+~!Manufacturer_Part_Number (RFX2401C)
+~!Mouser Part Number (477-RFX2401C)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Skyworks-Solutions-Inc/RFX2401C?qs=dBWc1juS%252B3ydEXrKsuxQ7A%3D%3D)
+~!Arrow Part Number (RFX2401C)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/rfx2401c/skyworks-solutions?utm_currency=USD&region=nac)
+~!Link Datasheet (https://eu.mouser.com/datasheet/2/472/RFX2401C_204359B-1524606.pdf)
+~!Height (0.6mm)
+~!3D_Model (RFX2401C)
+RFX2401C
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 12.1!U 11.1!U 10.1!U 9.1!U 17.1!U 16.1!U 15.1!U 14.1!U 13.1!U 

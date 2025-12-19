@@ -1,0 +1,18 @@
+.ADG904BCPZ :1 ;Analog Devices ADG904BCPZ, Multiplexer Single 4:1, 20-Pin LFCSP
+QFN50P400X400X80-21N-D
+*STM IC
+*NGS
+*PLB 1="GND_1" 2="RF1" 3="GND_2" 4="GND_3" 5="RF3" 6="GND_4" 7="GND_5" 8="RFC" 9="GND_6" 10="GND_7" 11="RF4" 12="GND_8" 13="GND_9" 14="RF2" 15="GND_10" 16="A1" 17="A0" 18="'EN'" 19="VDD" 20="GND_11" 21="GND_12"
+*MXP 21
+*DFN ADG904BCPZ
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (ADG904BCPZ)
+~!Mouser Part Number (584-ADG904BCPZ)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADG904BCPZ?qs=BpaRKvA4VqHRSAU%252Bp4VDug%3D%3D)
+~!Arrow Part Number (ADG904BCPZ)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/adg904bcpz/analog-devices?region=nac)
+~!Link Datasheet (https://mouser.componentsearchengine.com/Datasheets/2/ADG904BCPZ.pdf)
+~!Height (0.8mm)
+~!3D_Model (ADG904BCPZ)
+ADG904BCPZ
+1.1!G 2.1!U 3.1!G 4.1!G 5.1!U 6.1!G 7.1!G 8.1!U 9.1!G 10.1!G 15.1!G 14.1!U 13.1!G 12.1!G 11.1!U 21.1!G 20.1!G 19.1!P 18.1!I 17.1!I 16.1!I 

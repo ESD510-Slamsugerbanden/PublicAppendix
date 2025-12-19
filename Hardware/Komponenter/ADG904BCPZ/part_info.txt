@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=ADG904BCPZ
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=21
+Version=1.3
+Released=2019-09-18 10:29:42
+Downloaded=2025-10-22 10:27:55
+3D=Y

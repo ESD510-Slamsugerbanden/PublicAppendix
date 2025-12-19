@@ -1,0 +1,9 @@
+Manufacturer=Skyworks
+PartNumber=RFX2401C
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=17
+Version=2.1
+Released=2017-01-16 10:08:54
+Downloaded=2025-10-22 12:43:33
+3D=Y
